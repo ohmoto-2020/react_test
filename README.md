@@ -1,4 +1,4 @@
-#　Reference
+# Reference
 https://github.com/GomaGoma676/react-testing-library-lesson-react18/tree/main
 
 # Getting Started with Create React App and Redux
